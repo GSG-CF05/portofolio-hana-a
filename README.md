@@ -7,10 +7,10 @@ Hana'a albuhaisi.
 This is the first project in foundemental coure, I will make a portfolio website and host it on GitHub.
 
 ## What is portfolio ?
-A portfolio is a living and changing
+A portfolio is a
 collection of records that reflect your
-accomplishments, skills, experiences,
-and attributes. It highlights and
-showcases samples of some of your best
-work, along with life experiences, values
-and achievements.
+skills, experiences,
+and attributes. It contain samples of some of your best
+work. A portfolio does not take the place of cv, but
+it can accentuate your abilities and what
+you can offer in the chosen field. 
