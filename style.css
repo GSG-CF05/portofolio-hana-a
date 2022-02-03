@@ -37,3 +37,38 @@ body {
 .img {
   display: block;
   }
+ 
+  .title{
+    font-family: 'Times New Roman', Times, serif;
+    color:  rgb(239, 248, 248);
+    font-size: 30px;
+    /* background-color:  rgb(49, 216, 202); */
+  }
+  
+  .details{
+      font-size: 20px;
+       font-family: 'Times New Roman', Times, serif;
+    }
+  
+    
+    
+  .box-container{
+    display: flex;
+    background: rgb(50, 226, 217);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+  }
+  .box {
+    width: 50%;
+    height: 50%;
+    color: #fff;
+    font-size: 60px;
+    background: rgb(36, 172, 165);
+    margin: 10px;
+    padding: 20px;
+    box-shadow: rgb(19, 18, 9);
+  }
+  
