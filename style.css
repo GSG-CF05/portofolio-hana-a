@@ -1,0 +1,36 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(-90deg, rgb(162, 169, 182), rgb(55, 126, 233));
+}
+
+
+#content {
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  .H1{
+    display: block;
+    margin-bottom: 20px;
+    color: rgb(3, 87, 87);
+  }
+  
+.navbar{
+    /* width: 100%; */
+    padding-top: 10px;
+    padding-right: 15px;
+    height: 40px;
+    text-align: right;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid rgb(162, 194, 221);
+    background-color: rgb(50, 226, 217);
+    
+}
