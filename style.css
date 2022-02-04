@@ -23,7 +23,7 @@ body {
   }
   
 .navbar{
-    /* width: 100%; */
+    display: block;
     padding-top: 10px;
     padding-right: 15px;
     height: 40px;
@@ -77,4 +77,8 @@ body {
     padding: 20px;
     box-shadow: rgb(19, 18, 9);
   }
-  
+  a {
+    text-decoration: none;
+    /* background-color:rgb(29, 99, 99); ; */
+    color: rgb(3, 87, 87);  
+    }
