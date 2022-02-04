@@ -37,10 +37,16 @@ body {
 .img {
   display: block;
   }
+  .skill-img{
+    display: flex;
+    width: 70%;
+    padding-left:100px;
+    /* padding-right:50px; */
+  }
  
   .title{
     font-family: 'Times New Roman', Times, serif;
-    color:  rgb(239, 248, 248);
+    color:  rgb(3, 87, 87);
     font-size: 30px;
     /* background-color:  rgb(49, 216, 202); */
   }
@@ -64,9 +70,9 @@ body {
   .box {
     width: 50%;
     height: 50%;
-    color: #fff;
+    color: rgb(3, 87, 87);
     font-size: 60px;
-    background: rgb(36, 172, 165);
+    background: rgb(255, 255, 255);
     margin: 10px;
     padding: 20px;
     box-shadow: rgb(19, 18, 9);
